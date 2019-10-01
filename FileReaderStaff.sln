@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReaderStaff", "FileReaderStaff\FileReaderStaff.csproj", "{280B5433-E7E7-41E1-9471-30879C1C3FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280B5433-E7E7-41E1-9471-30879C1C3FF3}.Debug|x86.ActiveCfg = Debug|x86
+		{280B5433-E7E7-41E1-9471-30879C1C3FF3}.Debug|x86.Build.0 = Debug|x86
+		{280B5433-E7E7-41E1-9471-30879C1C3FF3}.Release|x86.ActiveCfg = Release|x86
+		{280B5433-E7E7-41E1-9471-30879C1C3FF3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

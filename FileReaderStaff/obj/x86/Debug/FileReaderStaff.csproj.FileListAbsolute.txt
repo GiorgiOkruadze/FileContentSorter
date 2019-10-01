@@ -1,0 +1,6 @@
+/Users/giorgiokruadze/Desktop/FileReaderStaff/FileReaderStaff/bin/Debug/FileReaderStaff.exe
+/Users/giorgiokruadze/Desktop/FileReaderStaff/FileReaderStaff/bin/Debug/FileReaderStaff.pdb
+/Users/giorgiokruadze/Desktop/FileReaderStaff/FileReaderStaff/obj/x86/Debug/FileReaderStaff.csprojAssemblyReference.cache
+/Users/giorgiokruadze/Desktop/FileReaderStaff/FileReaderStaff/obj/x86/Debug/FileReaderStaff.csproj.CoreCompileInputs.cache
+/Users/giorgiokruadze/Desktop/FileReaderStaff/FileReaderStaff/obj/x86/Debug/FileReaderStaff.exe
+/Users/giorgiokruadze/Desktop/FileReaderStaff/FileReaderStaff/obj/x86/Debug/FileReaderStaff.pdb
